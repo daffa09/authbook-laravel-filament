@@ -2,10 +2,12 @@
 <!-- slug: authbook-laravel-filament -->
 <!-- title: AuthoBook Management System -->
 <!-- description: Book authentication and management system built with Laravel 10 and Filament admin panel -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-authbook -->
+<!-- image: https://github.com/user-attachments/assets/de85ddfe-de3c-46dc-9cfa-0d77efd628f3 -->
 <!-- tags: laravel, filament, php, authentication, admin-panel -->
 
 # AuthBook Laravel 10 with Filament
+
+<img width="1536" height="1024" alt="authbook-laravel-filament" src="https://github.com/user-attachments/assets/de85ddfe-de3c-46dc-9cfa-0d77efd628f3" />
 
 A comprehensive book authentication and management system built with Laravel 10 and Filament admin panel. This project serves as a learning example for implementing modern admin panels with Filament in Laravel applications, created for the Web Programming (PBW) class.
 
